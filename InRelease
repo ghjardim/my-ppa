@@ -1,20 +1,27 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA256
 
-Date: Sun, 31 Dec 2023 02:53:10 +0000
+Date: Thu, 11 Jan 2024 17:14:35 +0000
 MD5Sum:
  8fc560b06e40d83a751897d152192456              782 Packages
- 178c87fafdaff972b4062b956ea4bad2              497 Packages.gz
- 362b3c6e567c6615aed67509946d508a               38 Release
+ 6eef3f45598cc1d65a9290bf0ccd5001              497 Packages.gz
+ 4f6d402f89f421ce32d9277aa153c74d               38 Release
 SHA1:
  1982a83923f7bab77bbc5b85fd5481f8b840ea48              782 Packages
- 00c5fb046c0a527289839cf12c6d89c973f78e09              497 Packages.gz
- 59452f7b2b3631b9837b16a37ffdd7b06babd5f9               38 Release
+ 1d20e51d449ad06933be2f14baa6c0533a16890b              497 Packages.gz
+ baf60722283d044b2f54d0c183fc115090f90999               38 Release
 SHA256:
  6aec09ce78ad9cdbf08ec34ee9fc75646100d7e6b5552b126168f34dd13951a1              782 Packages
- adb56fb3078ae1ef75485217b405bcef08eab36525723527ca87f85698c16ac7              497 Packages.gz
- b8de5fd4960229205a22a423dca9eace43b70becf7aba95b5fd8ead861c4531c               38 Release
+ e3408eabeed3c425eabe1fbcd9e633fe276a4cc80b15aa21ba9f876641f8c875              497 Packages.gz
+ 5b5966e8d4bc058b7747a035af2cd9c670dee1e79e200a51f4b2cb2e398697a6               38 Release
 SHA512:
  626ea09bd86e18390a7915e11f6db768327a2924b541a136bd4608ccc81ae818c7676f1bb671d5f1c0df1730948356bf9bf5aef4fd08667801311a14d72dd46a              782 Packages
- 26f2c40e9e535d13864b2f693a2c28f2ff54c38519b8e74c08d9ceb848b915f6c2d81542925b1d316e0d2dafd2766cc31fe697dd61a74063fa2fa7dd3481072c              497 Packages.gz
- 81c2cd30de4f4535320656d6b3f8471069841b12f9d215d5e8529abb5a13ef86ec3f00d40c29a4a7efd6a93bdfa540f03cd4af32bfd089559f76bd013cd93c2c               38 Release
+ 2e29a21c553d7d7703ba51b151dec62f9069351dd2abd1dbc8040e2ba6a688da33fb67e2e183927901c9c877ed729df6d06fb1cba542a33702adc29cbd95190a              497 Packages.gz
+ 9989b0a25f278219e5556fc26323dae89232b2ee70c2c42276d9b33f0471f4e30d7c2e28021c5d5ee77e2b6938ce6f46d2c3600b1edfcbf6cd3dbfe0374dd7fd               38 Release
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQThH4FdWgF/FcUddiDFZ9E0A1jtwQUCZaAiCgAKCRDFZ9E0A1jt
+wYe0AP4qweXwKAKwF+T5qkaigRM7NHrdUPGtPmIeXmG+XGgTwwD7Bl/d9sOl4o12
+GglFOs2NH48CCCUtI8PvvGKCKFRHZgk=
+=Rgxa
+-----END PGP SIGNATURE-----

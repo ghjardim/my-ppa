@@ -14,4 +14,4 @@ gpg --default-key "${EMAIL}" --clearsign -o - Release > InRelease
 # Commit & push
 git add -A
 git commit -m update
-git push
+git push -f
